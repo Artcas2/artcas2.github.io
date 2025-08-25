@@ -1,5 +1,11 @@
 {
   "plugins": {
+    "2.11.0": {
+      "file_url": "https://github.com/Artcas2/MineralContestCelest/releases/download/v2.11.0/MineralContestCelest.jar",
+      "file_name": "MineralContestCelest.jar",
+      "file_size": "4017431",
+      "sha256_signature": "c798ed7bde07e729482fd190290d4634f6bbc3363dc3278a08cb6744e63f7c26"
+    },
     "2.10.0": {
       "file_url": "https://github.com/Artcas2/MineralContestCelest/releases/download/2.10.0/MineralContestCelest.jar",
       "file_name": "MineralContestCelest.jar",
