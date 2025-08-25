@@ -1,14 +1,16 @@
 {
-  "2.10.0": {
-    "file_url": "https://github.com/Artcas2/MineralContestCelest/releases/download/2.10.0/MineralContestCelest.jar",
-    "file_name": "MineralContestCelest.jar",
-    "file_size": "3744554",
-    "sha256_signature": "c6e0fb4c9be24177f4126331c5109c6c6d4a3abdf0df7faeb8dacff1c5a853c8"
-  },
-  "2.9.0": {
-    "file_url": "https://github.com/Artcas2/MineralContestCelest/releases/download/2.9.0/MineralContestCelest.jar",
-    "file_name": "MineralContestCelest.jar",
-    "file_size": "3738646",
-    "sha256_signature": "5b33047c7f996286c4a181d7ceb2b0ff8595d5133c911a0e76ad202d3ba4e252"
+  "plugins": {
+    "2.10.0": {
+      "file_url": "https://github.com/Artcas2/MineralContestCelest/releases/download/2.10.0/MineralContestCelest.jar",
+      "file_name": "MineralContestCelest.jar",
+      "file_size": "3744554",
+      "sha256_signature": "c6e0fb4c9be24177f4126331c5109c6c6d4a3abdf0df7faeb8dacff1c5a853c8"
+    },
+    "2.9.0": {
+      "file_url": "https://github.com/Artcas2/MineralContestCelest/releases/download/2.9.0/MineralContestCelest.jar",
+      "file_name": "MineralContestCelest.jar",
+      "file_size": "3738646",
+      "sha256_signature": "5b33047c7f996286c4a181d7ceb2b0ff8595d5133c911a0e76ad202d3ba4e252"
+    }
   }
 }
